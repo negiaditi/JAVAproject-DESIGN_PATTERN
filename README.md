@@ -7,7 +7,7 @@ YOU CAN SEE THE VIDEO OF THE RUNNING CODE HERE-https://www.youtube.com/watch?v=T
 PIZZA WORLD-project title
 (AP LAB II PROJECT)
 
-Contributed by-ABHAY GARG, ADITI NEGI
+Contributors-ABHAY GARG, ADITI NEGI
 
 PROJECT PROBLEM
 We have a Pizza shop which makes two types of pizzas one is Italian and
